@@ -1,0 +1,40 @@
+```
+* {
+	  box-sizing: border-box;
+	  margin: 0;
+	  padding: 0;
+	}
+	html {
+	  scroll-behavior: smooth;
+	}
+	body {
+	  font-family: "Inter", sans-serif;
+	  font-family: "Merriweather", serif;
+	  background-color: #000;
+	  min-height: 100vh;
+	  margin: 0;
+	  padding: 0;
+	}
+	.container {
+	  max-width: 1440px;
+	  margin: 0 auto;
+	  padding: 0 20px;
+	}
+	/*HEADER*/
+	.header-nav {
+	  display: flex;
+	  justify-content: space-between;
+	  align-items: center;
+	}
+	.nav {
+	  margin-left: auto;
+	}
+	.nav-list {
+	  display: flex;
+	  justify-content: space-between;
+	  align-items: center;
+	  list-style: none;
+	  cursor: pointer;
+	}
+
+```
