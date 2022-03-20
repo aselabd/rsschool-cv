@@ -22,20 +22,23 @@ I want to learn Front-End Development._
               <li class="nav-item">
                 Skills<a href="#Skills" class="nav-link"></a>
               </li>
-              
 ```
+
 ## SKILLS:
+
 * HTML
 * CSS
 * JAVASCRIPT (BASIC)
 * GIT
 
 ## EDUCATION AND COURSES:
+
 * Kyrgyz-Turkish Manas University (Kyrgyzstan)    
 * Istanbul University (Turkey)
 * FreeCodeCamp
 * RS SCHOOL
 
 ## LANGUAGES:
+
 * ENGLISH B1
 * TURKISH C1
