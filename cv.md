@@ -37,6 +37,7 @@ I want to learn Front-End Development._
 * Istanbul University (Turkey)
 * FreeCodeCamp
 * RS SCHOOL
+* ru.code-basics.com
 
 ## LANGUAGES:
 
